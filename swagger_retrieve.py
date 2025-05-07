@@ -22,8 +22,8 @@ def get_token():
     """
     login_url = "https://dataone.prep.corner.local/ghibli-rest/v2/login"
     credentials = {
-        "username": "gago",
-        "password": "cydeon86!"
+        "username": "",
+        "password": ""
     }
     headers = {
         "Content-Type": "application/x-www-form-urlencoded"
